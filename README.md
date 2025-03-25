@@ -1,2 +1,2 @@
 # Automate_Notion-WPP
-Monitora banco de dados no Notion em busca de registros especificados pelo usuário. Envia notificações pelo WhatsApp via Twilio conforme as preferências. Executa a verificação a cada 30s, além de fornecer uma API via Flask.
+Monitors Notion databases for user-specified records. Sends WhatsApp notifications via Twilio based on preferences. Runs checks every 30s and provides an API via Flask.
